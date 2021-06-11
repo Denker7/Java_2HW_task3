@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Interface {
 
-    static GamerList gamers = new GamerList();
+    static GamerMap gamers = new GamerMap();
     static BufferedReader br = null;
     static Scanner console = new Scanner(System.in);
 

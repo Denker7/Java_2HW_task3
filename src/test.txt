@@ -1,1 +1,1 @@
-"Ivan 5","Petr 6",Gleb 10,"Ivan 11","Petr 0"
+"Ivan 5","Petr 6",Gleb 10,"Ivan 11","Petr 0","Petr 6","Petr 6"
